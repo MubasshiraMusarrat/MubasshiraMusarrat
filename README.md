@@ -27,4 +27,4 @@ Mubasshira</a></h1>
 
 ### 📄 Know about my experiences in my [Resume](https://github.com/user-attachments/files/19215070/Mubasshira_Musarrat_CV.pdf)
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" style="margin-right: 10px;">Connect with me 🤝 </h3>
