@@ -152,7 +152,15 @@ Mubasshira</a></h1>
 
 <br> 
 
-## <picture align="center" > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px style="margin-right: 10px;"> </picture> Github Stats
+## <picture > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px style="margin-right: 10px;"> </picture> Github Stats
 
 <br>
 <h3 align="center" > <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<br>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
