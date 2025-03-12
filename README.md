@@ -46,9 +46,7 @@ Mubasshira</a></h1>
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"></a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
@@ -111,7 +109,7 @@ Mubasshira</a></h1>
   &emsp;
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?&style=plastic&logo=postgresql&logoColor=white"/></a>
   &emsp;
-    <a href="#"><img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-%23FF7800.svg?style=plastic&logo=java&logoColor=white"/></a>
+    <a href="#"><img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-3874BA?style=plastic&logo=openjfx&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white"/></a>
   &emsp;
@@ -127,9 +125,9 @@ Mubasshira</a></h1>
   &emsp;
     <a href="#"><img alt="CodeBlocks" src="https://img.shields.io/badge/Code::Blocks-%23007ACC.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-%235C3EE8.svg?style=plastic&logo=rstudio&logoColor=white"></a>
+   <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=rstudio&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white"></a>
   &emsp;
@@ -147,9 +145,9 @@ Mubasshira</a></h1>
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white"></a>
+    <a href="#"><img alt="Debian (Linux)" src="https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
 <br> 
