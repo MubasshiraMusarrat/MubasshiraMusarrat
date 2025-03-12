@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/MubasshiraMusarrat" target="blank">
 Mubasshira</a></h1>
-<h3 align="center">A Computer Science Undergrad</h3>
+<h3 align="center">A Computer Science Undergrad, a passionate full stack developer & AI/ML enthusiast</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
-I'm a passionate full stack developer & AI/ML enthusiast
 
 ### 🚀 What I Work On:
 - Backend development with **Spring Boot** & **NodeJS**
