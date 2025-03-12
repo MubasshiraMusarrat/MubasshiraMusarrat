@@ -151,7 +151,7 @@ Mubasshira</a></h1>
 </p>
 
 <br> 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<h3 align="center" > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px style="margin-right: 10px;">Github Stats</h3>
 
 <br>
 <h3 align="center" > <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" style="margin-right: 10px;">Connect with me 🤝 </h3>
