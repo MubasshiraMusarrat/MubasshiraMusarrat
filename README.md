@@ -1,10 +1,8 @@
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=MubasshiraMusarrat)
-
-<br/>
-
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/MubasshiraMusarrat" target="blank">
 Mubasshira</a></h1>
 <h3 align="center">A Computer Science Undergrad, a passionate full stack developer & AI/ML enthusiast</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MubasshiraMusarrat&label=Profile%20views&color=0e75b6&style=flat" alt="MubasshiraMusarrat" /> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
