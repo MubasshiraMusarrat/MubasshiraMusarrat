@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/MubasshiraMusarrat" target="blank">
+Mubasshira</a></h1>
+<h3 align="center">A Computer Science Undergrad</h3>
 
-<!--
-**MubasshiraMusarrat/MubasshiraMusarrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-Here are some ideas to get you started:
+I'm a passionate full stack developer & AI/ML enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Work On:
+- Backend development with **Spring Boot** & **NodeJS**
+- Frontend templating using **Thymeleaf**
+- Styling with **Tailwind CSS**
+- Interactive UI with **JavaScript** & **Svelte**
+
+### 🤖 Exploring Machine Learning & Computer Vision:
+- Working with **ML models** for data-driven applications  
+- Experimenting with **computer vision** projects  
+- Learning **TensorFlow, OpenCV, and deep learning concepts**
+
+### 💡 What I'm Learning:
+-  Advancing my skills in AI & ML
+- Optimizing APIs for better performance  
+- Enhancing frontend interactivity
+- Exploring new frameworks & technologies
+  
+- 📫 How to reach me **mubasshira31@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/user-attachments/files/19215070/Mubasshira_Musarrat_CV.pdf" target="blank">Resume</a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
