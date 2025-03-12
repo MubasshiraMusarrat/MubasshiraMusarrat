@@ -25,8 +25,8 @@ I'm a passionate full stack developer & AI/ML enthusiast
 - Enhancing frontend interactivity
 - Exploring new frameworks & technologies
   
-- 📫 How to reach me **mubasshira31@gmail.com**
+### 📫 How to reach me **mubasshira31@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/user-attachments/files/19215070/Mubasshira_Musarrat_CV.pdf" target="blank">Resume</a>
+### 📄 Know about my experiences in my [Resume](https://github.com/user-attachments/files/19215070/Mubasshira_Musarrat_CV.pdf)
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
