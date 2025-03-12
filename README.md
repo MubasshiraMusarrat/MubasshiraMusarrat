@@ -162,7 +162,16 @@ Mubasshira</a></h1>
 </p>
 
 <br>
-<h3 align="center" > <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<h2 align="center" >🤝 Connect with me </h2>
+
+<p align="center">
+  <a href="mailto:mubasshira31@gmail.com"><img src="https://img.shields.io/badge/-mubasshira31@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mubasshira-musarrat-433552219"><img src="https://img.shields.io/badge/-Mubasshira%20Musarrat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mubasshira_musarrat/"><img src="https://img.shields.io/badge/-@mubasshira_musarrat-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100010388685381"><img src="https://img.shields.io/badge/-@MubasshiraMusarrat-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@mubasshiramusarrat2956"><img src="https://img.shields.io/badge/-@MubasshiraMusarrat2956-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
+</p>
 
 <br>
 
