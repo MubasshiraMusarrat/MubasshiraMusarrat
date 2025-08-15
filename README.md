@@ -24,10 +24,6 @@ Mubasshira</a></h1>
 - Optimizing APIs for better performance  
 - Enhancing frontend interactivity
 - Exploring new frameworks & technologies
-  
-### 📫 How to reach me **mubasshira31@gmail.com**
-
-### 📄 Know about my experiences in my [Resume](https://github.com/user-attachments/files/19215070/Mubasshira_Musarrat_CV.pdf)
 <br/>
 
 ## Featured Projects
